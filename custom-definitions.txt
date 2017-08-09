@@ -1,0 +1,6 @@
+ratio = [ratio]
+percent = 0.01 * ratio
+percent = %
+
+°C = degC
+°F = degF
