@@ -31,6 +31,8 @@ pint.errors.OffsetUnitCalculusError: Ambiguous operation with offset unit (degF,
 ureg = UnitRegistry(autoconvert_offset_to_baseunit=True)
 ```
 
+And [here](http://pint.readthedocs.io/en/latest/nonmult.html) is some other documentation on why.
+
 ## [custom_units.py](scripts/custom_units.py)
 
 Script that imports custom unit definitions and defines a new unit dimension
