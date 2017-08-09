@@ -51,3 +51,6 @@ A few options:
 #### Token Characters Problem
 
 Token characters like `+`, `-`, `%`, `*`, etc that python uses in expressions cannot be used as or in unit strings. The full list of token characters can be found [here](https://github.com/hgrecco/pint/blob/master/pint/compat/tokenize.py#L65). This is primarily a problem for the `%` character. If we feel strongly enough we can submit a PR or an issue.
+
+This issue is about this same problem:
+https://github.com/hgrecco/pint/issues/429
