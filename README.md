@@ -12,7 +12,7 @@ The output of the script is available [here](outputs/all-units.md).
 
 Lists all unit dimensions and units within each category, all of which can be converted between.
 
-The output of the script is availbe [here](outputs/convertible-units.md)
+The output of the script is available [here](outputs/convertible-units.md)
 
 ## [guarantee_convertible.py](scripts/guarantee_convertible.py)
 
