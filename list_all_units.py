@@ -15,12 +15,16 @@ print 'All suffixes, prefixes, and units in which are used to define all availab
 
 print '## Prefixes'
 for p in prefixes:
-    print '`' + uni(p) + '`\n'
+    if p == '':
+        p = ' '
+    print '`' + uni(p) + '`'
 
 print '## Units'
 for u in units:
-    print '`' + uni(u) + '`\n'
+    print '`' + uni(u) + '`'
 
 print '## Suffixes'
 for s in suffixes:
-    print '`' + uni(s) + '`\n'
+    if s == '':
+        s = ' '
+    print '`' + uni(s) + '`'
