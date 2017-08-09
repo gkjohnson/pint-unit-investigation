@@ -8,7 +8,8 @@ prefixes = ureg._prefixes.keys()
 def uni(str):
     return str.encode('utf-8')
 
-
+# Print all possible units by joining
+# {prefix}{unit}{suffix}
 print '# All units available in pint'
 for p in prefixes:
     for u in units:
