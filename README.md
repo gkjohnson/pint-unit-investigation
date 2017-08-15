@@ -14,6 +14,12 @@ Lists all unit dimensions and units within each category, all of which can be co
 
 The output of the script is available [here](outputs/dimension-groups.md)
 
+## [list_all_base_unit_groups.py](scripts/list_all_base_unit_groups.py)
+
+Lists all base units (and dimension) and units within each category, all of which can be converted between.
+
+The output of the script is available [here](outputs/base-unit-groups.md)
+
 ## [guarantee_convertible.py](scripts/guarantee_convertible.py)
 
 Converts to and from every unit in every unit set to guarantee that they are all convertable using Pint's `Quantity.to` function.
