@@ -2,7 +2,7 @@ from pint import UnitRegistry
 import common
 
 ureg = UnitRegistry()
-sets = common.get_unit_sets(ureg)
+sets = common.get_dimension_sets(ureg)
 
 # guarantee that all units in each dimension
 # group are convertible
