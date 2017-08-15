@@ -1,7 +1,7 @@
 # All Base Unit Sets
 List of all units in each base_unit group defined in Pint.
 ## kilogram / second ** 2
-_[mass] / [time] ** 2_
+[mass] / [time] ** 2
 
 
 `langley`
@@ -9,7 +9,7 @@ _[mass] / [time] ** 2_
 `Langley`
 `PSH`
 ## pixel / meter
-_[printing_unit] / [length]_
+[printing_unit] / [length]
 
 
 `DPI`
@@ -21,7 +21,7 @@ _[printing_unit] / [length]_
 `printers_dpi`
 `PPCM`
 ## kilogram * meter ** 2 / ampere / second ** 3
-_[length] ** 2 * [mass] / [current] / [time] ** 3_
+[length] ** 2 * [mass] / [current] / [time] ** 3
 
 
 `V`
@@ -30,20 +30,20 @@ _[length] ** 2 * [mass] / [current] / [time] ** 3_
 `stV`
 `statV`
 ## kilogram * meter / ampere ** 2 / second ** 2
-_[length] * [mass] / [current] ** 2 / [time] ** 2_
+[length] * [mass] / [current] ** 2 / [time] ** 2
 
 
 `vacuum_permeability`
 `mu_0`
 `magnetic_constant`
 ## 1 / mole
-_1 / [substance]_
+1 / [substance]
 
 
 `avogadro_number`
 `N_A`
 ## meter
-_[length]_
+[length]
 
 
 `chain`
@@ -105,37 +105,37 @@ _[length]_
 `angstrom`
 `nautical_mile`
 ## ampere / meter
-_[current] / [length]_
+[current] / [length]
 
 
 `oersted`
 `Oe`
 ## kilogram / meter / second
-_[mass] / [length] / [time]_
+[mass] / [length] / [time]
 
 
 `P`
 `poise`
 `P̸`
 ## candela * radian ** 2 / meter ** 2
-_[luminosity] / [length] ** 2_
+[luminosity] / [length] ** 2
 
 
 `lux`
 `lx`
 ## bit / pixel
-_1 / [printing_unit]_
+1 / [printing_unit]
 
 
 `bpp`
 `bits_per_pixel`
 ## meter ** 3 / kilogram / second ** 2
-_[length] ** 3 / [mass] / [time] ** 2_
+[length] ** 3 / [mass] / [time] ** 2
 
 
 `newtonian_constant_of_gravitation`
 ## 1 / second
-_1 / [time]_
+1 / [time]
 
 
 `becquerel`
@@ -148,7 +148,7 @@ _1 / [time]_
 `Hz`
 `hertz`
 ## kilogram ** 0.5 * meter ** 1.5 / second
-_[length] ** 1.5 * [mass] ** 0.5 / [time]_
+[length] ** 1.5 * [mass] ** 0.5 / [time]
 
 
 `franklin`
@@ -157,7 +157,7 @@ _[length] ** 1.5 * [mass] ** 0.5 / [time]_
 `statcoulombs`
 `esu`
 ## kilogram * meter ** 2 / ampere ** 2 / second ** 2
-_[length] ** 2 * [mass] / [current] ** 2 / [time] ** 2_
+[length] ** 2 * [mass] / [current] ** 2 / [time] ** 2
 
 
 `henry`
@@ -166,32 +166,32 @@ _[length] ** 2 * [mass] / [current] ** 2 / [time] ** 2_
 `statH`
 `H`
 ## mole
-_[substance]_
+[substance]
 
 
 `mol`
 `mole`
 ## count / second
-_1 / [time]_
+1 / [time]
 
 
 `counts_per_second`
 `cps`
 ## kilogram / kelvin ** 4 / second ** 3
-_[mass] / [temperature] ** 4 / [time] ** 3_
+[mass] / [temperature] ** 4 / [time] ** 3
 
 
 `stefan_boltzmann_constant`
 `σ`
 ## candela
-_[luminosity]_
+[luminosity]
 
 
 `candela`
 `cd`
 `candle`
 ## ampere
-_[current]_
+[current]
 
 
 `A`
@@ -200,7 +200,7 @@ _[current]_
 `amp`
 `ampere_turn`
 ## kilogram * meter ** 2 / second ** 2
-_[length] ** 2 * [mass] / [time] ** 2_
+[length] ** 2 * [mass] / [time] ** 2
 
 
 `hartree_energy`
@@ -233,7 +233,7 @@ _[length] ** 2 * [mass] / [time] ** 2_
 `therm`
 `J`
 ## ampere ** 2 * second ** 3 / kilogram / meter ** 2
-_[current] ** 2 * [time] ** 3 / [length] ** 2 / [mass]_
+[current] ** 2 * [time] ** 3 / [length] ** 2 / [mass]
 
 
 `statmho`
@@ -243,7 +243,7 @@ _[current] ** 2 * [time] ** 3 / [length] ** 2 / [mass]_
 `mho`
 `siemens`
 ## kilogram / meter / second ** 2
-_[mass] / [length] / [time] ** 2_
+[mass] / [length] / [time] ** 2
 
 
 `pound_force_per_square_inch`
@@ -284,14 +284,14 @@ _[mass] / [length] / [time] ** 2_
 `barrie`
 `at`
 ## bit / second
-_1 / [time]_
+1 / [time]
 
 
 `baud`
 `Bd`
 `bps`
 ## kilogram * meter ** 2 / ampere ** 2 / second ** 3
-_[length] ** 2 * [mass] / [current] ** 2 / [time] ** 3_
+[length] ** 2 * [mass] / [current] ** 2 / [time] ** 3
 
 
 `Z_0`
@@ -301,14 +301,14 @@ _[length] ** 2 * [mass] / [current] ** 2 / [time] ** 3_
 `characteristic_impedance_of_vacuum`
 `Ω`
 ## ampere ** 2 * second ** 4 / kilogram / meter ** 3
-_[current] ** 2 * [time] ** 4 / [length] ** 3 / [mass]_
+[current] ** 2 * [time] ** 4 / [length] ** 3 / [mass]
 
 
 `electric_constant`
 `vacuum_permittivity`
 `epsilon_0`
 ## meter / second ** 2
-_[length] / [time] ** 2_
+[length] / [time] ** 2
 
 
 `standard_gravity`
@@ -316,7 +316,7 @@ _[length] / [time] ** 2_
 `g_n`
 `g_0`
 ## kilogram * meter ** 2 / second ** 3
-_[length] ** 2 * [mass] / [time] ** 3_
+[length] ** 2 * [mass] / [time] ** 3
 
 
 `hydraulic_horsepower`
@@ -337,7 +337,7 @@ _[length] ** 2 * [mass] / [time] ** 3_
 `volt_ampere`
 `standard_liter_per_minute`
 ## radian
-_dimensionless_
+dimensionless
 
 
 `arcsec`
@@ -360,7 +360,7 @@ _dimensionless_
 `angular_second`
 `arcmin`
 ## meter ** 2
-_[length] ** 2_
+[length] ** 2
 
 
 `sq_yd`
@@ -387,7 +387,7 @@ _[length] ** 2_
 `ha`
 `square_mile`
 ## kilogram / meter ** 2 / second ** 2
-_[mass] / [length] ** 2 / [time] ** 2_
+[mass] / [length] ** 2 / [time] ** 2
 
 
 `mercury_60F`
@@ -402,7 +402,7 @@ _[mass] / [length] ** 2 / [time] ** 2_
 `Hg`
 `water_60F`
 ## second
-_[time]_
+[time]
 
 
 `month`
@@ -439,12 +439,12 @@ _[time]_
 `sidereal_second`
 `eon`
 ## 1 / meter
-_1 / [length]_
+1 / [length]
 
 
 `rydberg_constant`
 ## kilogram / ampere / second ** 2
-_[mass] / [current] / [time] ** 2_
+[mass] / [current] / [time] ** 2
 
 
 `T`
@@ -452,13 +452,13 @@ _[mass] / [current] / [time] ** 2_
 `gauss`
 `tesla`
 ## candela * radian ** 2
-_[luminosity]_
+[luminosity]
 
 
 `lm`
 `lumen`
 ## bit
-_dimensionless_
+dimensionless
 
 
 `byte`
@@ -466,7 +466,7 @@ _dimensionless_
 `bit`
 `octet`
 ## ampere * second
-_[current] * [time]_
+[current] * [time]
 
 
 `physical_faraday`
@@ -478,7 +478,7 @@ _[current] * [time]_
 `e`
 `coulomb`
 ## kilogram * meter ** 2 / ampere / second ** 2
-_[length] ** 2 * [mass] / [current] / [time] ** 2_
+[length] ** 2 * [mass] / [current] / [time] ** 2
 
 
 `mx`
@@ -487,13 +487,13 @@ _[length] ** 2 * [mass] / [current] / [time] ** 2_
 `unit_pole`
 `maxwell`
 ## dimensionless
-_dimensionless_
+dimensionless
 
 
 `π`
 `pi`
 ## meter / second
-_[length] / [time]_
+[length] / [time]
 
 
 `mph`
@@ -508,13 +508,13 @@ _[length] / [time]_
 `MPH`
 `kt`
 ## kilogram * meter ** 2 / kelvin / second ** 2
-_[length] ** 2 * [mass] / [temperature] / [time] ** 2_
+[length] ** 2 * [mass] / [temperature] / [time] ** 2
 
 
 `k`
 `boltzmann_constant`
 ## kilogram / meter
-_[mass] / [length]_
+[mass] / [length]
 
 
 `tex`
@@ -522,24 +522,24 @@ _[mass] / [length]_
 `denier`
 `dtex`
 ## kilogram * meter ** 2 / kelvin / mole / second ** 2
-_[length] ** 2 * [mass] / [substance] / [temperature] / [time] ** 2_
+[length] ** 2 * [mass] / [substance] / [temperature] / [time] ** 2
 
 
 `molar_gas_constant`
 `R`
 ## meter * second / kilogram
-_[length] * [time] / [mass]_
+[length] * [time] / [mass]
 
 
 `rhe`
 ## radian ** 2
-_dimensionless_
+dimensionless
 
 
 `sr`
 `steradian`
 ## meter ** 3
-_[length] ** 3_
+[length] ** 3
 
 
 `gi`
@@ -652,7 +652,7 @@ _[length] ** 3_
 `barrel`
 `acre_foot`
 ## kilogram * meter / second ** 2
-_[length] * [mass] / [time] ** 2_
+[length] * [mass] / [time] ** 2
 
 
 `gf`
@@ -678,7 +678,7 @@ _[length] * [mass] / [time] ** 2_
 `force_ton`
 `gram_force`
 ## kelvin
-_[temperature]_
+[temperature]
 
 
 `delta_degF`
@@ -695,12 +695,12 @@ _[temperature]_
 `Δfahrenheit`
 `Δcelsius`
 ## count
-_dimensionless_
+dimensionless
 
 
 `count`
 ## ampere ** 2 * second ** 4 / kilogram / meter ** 2
-_[current] ** 2 * [time] ** 4 / [length] ** 2 / [mass]_
+[current] ** 2 * [time] ** 4 / [length] ** 2 / [mass]
 
 
 `F`
@@ -709,18 +709,18 @@ _[current] ** 2 * [time] ** 4 / [length] ** 2 / [mass]_
 `statF`
 `farad`
 ## kilogram ** 0.5 * meter ** 1.5 / second ** 2
-_[length] ** 1.5 * [mass] ** 0.5 / [time] ** 2_
+[length] ** 1.5 * [mass] ** 0.5 / [time] ** 2
 
 
 `esu_per_second`
 `statampere`
 ## 1 / kelvin / second
-_1 / [temperature] / [time]_
+1 / [temperature] / [time]
 
 
 `wien_frequency_displacement_law_constant`
 ## pixel
-_[printing_unit]_
+[printing_unit]
 
 
 `pixel`
@@ -729,7 +729,7 @@ _[printing_unit]_
 `px`
 `pel`
 ## kilogram
-_[mass]_
+[mass]
 
 
 `gr`
@@ -796,29 +796,29 @@ _[mass]_
 `kilogram`
 `u`
 ## fine_structure_constant
-_dimensionless_
+dimensionless
 
 
 `fine_structure_constant`
 ## ampere * second / kilogram
-_[current] * [time] / [mass]_
+[current] * [time] / [mass]
 
 
 `roentgen`
 ## meter ** 2 / second
-_[length] ** 2 / [time]_
+[length] ** 2 / [time]
 
 
 `St`
 `stokes`
 ## radian / second
-_1 / [time]_
+1 / [time]
 
 
 `revolutions_per_minute`
 `rpm`
 ## kilogram * meter ** 2 / second
-_[length] ** 2 * [mass] / [time]_
+[length] ** 2 * [mass] / [time]
 
 
 `planck_constant`
@@ -826,7 +826,7 @@ _[length] ** 2 * [mass] / [time]_
 `h`
 `hbar`
 ## meter ** 2 / second ** 2
-_[length] ** 2 / [time] ** 2_
+[length] ** 2 / [time] ** 2
 
 
 `Gy`

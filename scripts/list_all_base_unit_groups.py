@@ -10,7 +10,7 @@ print 'List of all units in each base_unit group defined in Pint.'
 for bu in sets.keys():
     print '## ' + str(bu).encode('utf-8')
     dim = ureg.Quantity(1, bu).dimensionality
-    print '_' + str(dim).encode('utf-8') + '_'
+    print str(dim).encode('utf-8')
     print '\n'
 
     for u in sets[bu]:
