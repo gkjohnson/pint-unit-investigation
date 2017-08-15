@@ -1,4 +1,4 @@
-# All Unit Sets
+# All Dimensionality Sets
 List of all units in each dimension group defined in Pint.
 ## 1 / [time]
 `becquerel`

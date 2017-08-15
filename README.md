@@ -8,11 +8,11 @@ Lists all prefixes, suffixes, and units available in pint which can be combined 
 
 The output of the script is available [here](outputs/all-units.md).
 
-## [list_all_convertible_groups.py](scripts/list_all_convertible_groups.py)
+## [list_all_dimensions_groups.py](scripts/list_all_dimension_groups.py)
 
 Lists all unit dimensions and units within each category, all of which can be converted between.
 
-The output of the script is available [here](outputs/convertible-units.md)
+The output of the script is available [here](outputs/dimension-groups.md)
 
 ## [guarantee_convertible.py](scripts/guarantee_convertible.py)
 
